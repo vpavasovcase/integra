@@ -13,6 +13,6 @@ All agents will use the Google Gemini 2.0 Flash model for consistent performance
 
 The project should be modular, well-documented, and follow best practices for Python development and Pydantic AI usage. Prioritize creating a robust foundation that can be extended in the future.
 
-Use PydanticAI framework features whenever possible, consult the docs. 
+Use PydanticAI framework features whenever possible, consult the docs and examples in folder "PydanticAI_docs" in the project. 
 Aks questions when in doubt.
 
